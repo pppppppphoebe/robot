@@ -1,0 +1,13 @@
+﻿  CompareDump.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  ImageExtractor.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  Main.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  WriteDumb.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  Info.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  Export.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_cmd\Main.h(58,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  正在產生程式碼...

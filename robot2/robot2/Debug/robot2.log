@@ -1,0 +1,7 @@
+﻿  Application.cpp
+  objloader.cpp
+C:\Users\open1\Documents\OpenGL\robot2\robot2\src\objloader.cpp(165,17): warning C4477: 'fscanf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'std::string'
+  正在產生程式碼...
+LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/FORCE' 規格
+LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  robot2.vcxproj -> C:\Users\open1\Documents\OpenGL\robot2\Debug\robot2.exe

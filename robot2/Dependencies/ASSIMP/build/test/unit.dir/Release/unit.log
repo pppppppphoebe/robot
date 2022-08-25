@@ -1,0 +1,190 @@
+﻿  Building Custom Rule C:/Users/open1/Downloads/assimp-5.0.1/assimp-5.0.1/test/CMakeLists.txt
+  gtest-all.cc
+  Main.cpp
+  Version.cpp
+  utSimd.cpp
+  utIOSystem.cpp
+  utIOStreamBuffer.cpp
+  utIssues.cpp
+  utAnim.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\Main.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\src\gtest-all.cc)
+  AssimpAPITest.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSimd.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utIOStreamBuffer.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utIOSystem.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utIssues.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utAnim.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\AssimpAPITest.cpp)
+  utBatchLoader.cpp
+  utDefaultIOStream.cpp
+  utFastAtof.cpp
+  utMetadata.cpp
+  SceneDiffer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBatchLoader.cpp)
+  AbstractImportExportBase.cpp
+  utTypes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utDefaultIOStream.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utMetadata.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utFastAtof.cpp)
+  utVersion.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\SceneDiffer.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\AbstractImportExportBase.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utTypes.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utVersion.cpp)
+  utProfiler.cpp
+  utSharedPPData.cpp
+  utStringUtils.cpp
+  utLineSplitter.cpp
+  utLWSImportExport.cpp
+  utLWOImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utProfiler.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSharedPPData.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utStringUtils.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\Common\utLineSplitter.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utLWSImportExport.cpp)
+  utSMDImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utLWOImportExport.cpp)
+  utglTFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSMDImportExport.cpp)
+  utglTF2ImportExport.cpp
+  utHMPImportExport.cpp
+  utIFCImportExport.cpp
+  utFBXImporterExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utglTFImportExport.cpp)
+  utImporter.cpp
+  utExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utglTF2ImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utIFCImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utHMPImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utFBXImporterExporter.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utImporter.cpp)
+  ut3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utExporter.cpp)
+  ut3DSImportExport.cpp
+  utACImportExport.cpp
+  utAMFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ut3DImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ut3DSImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utACImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utAMFImportExport.cpp)
+  utASEImportExport.cpp
+  utD3MFImportExport.cpp
+  utQ3DImportExport.cpp
+  utSTLImportExport.cpp
+  utXImporterExporter.cpp
+  utX3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utASEImportExport.cpp)
+  utDXFImporterExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utQ3DImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utD3MFImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSTLImportExport.cpp)
+  utPMXImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utXImporterExporter.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utX3DImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utDXFImporterExporter.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utPMXImporter.cpp)
+  utPLYImportExport.cpp
+  utObjImportExport.cpp
+  utObjTools.cpp
+  utOpenGEXImportExport.cpp
+  utSIBImporter.cpp
+  utBlenderIntermediate.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utPLYImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utObjImportExport.cpp)
+  utBlendImportAreaLight.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utObjTools.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utOpenGEXImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSIBImporter.cpp)
+  utBlenderImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBlenderIntermediate.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBlendImportAreaLight.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBlenderImportExport.cpp)
+  utBlendImportMaterials.cpp
+  utBlenderWork.cpp
+  utBVHImportExport.cpp
+  utColladaExportCamera.cpp
+  utColladaExportLight.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBlendImportMaterials.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBVHImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utBlenderWork.cpp)
+  utColladaImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utColladaExportCamera.cpp)
+  utCSMImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utColladaExportLight.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utColladaImportExport.cpp)
+  utB3DImportExport.cpp
+  utMDCImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utCSMImportExport.cpp)
+  utAssbinImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utB3DImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utMDCImportExport.cpp)
+  utAssjsonImportExport.cpp
+  utCOBImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utAssbinImportExport.cpp)
+  utOgreImportExport.cpp
+  utQ3BSPFileImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utAssjsonImportExport.cpp)
+  utOFFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utCOBImportExport.cpp)
+  utNFFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utOgreImportExport.cpp)
+  utXGLImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utQ3BSPFileImportExport.cpp)
+  utMaterialSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utNFFImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utOFFImportExport.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utXGLImportExport.cpp)
+  utMatrix3x3.cpp
+  utMatrix4x4.cpp
+  utVector3.cpp
+  utImproveCacheLocality.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utMaterialSystem.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utMatrix3x3.cpp)
+  utFixInfacingNormals.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utMatrix4x4.cpp)
+  utGenNormals.cpp
+  utTriangulate.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utVector3.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utImproveCacheLocality.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utFixInfacingNormals.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utTriangulate.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utGenNormals.cpp)
+  utTextureTransform.cpp
+  utRemoveRedundantMaterials.cpp
+  utRemoveVCProcess.cpp
+  utScaleProcess.cpp
+  utJoinVertices.cpp
+  utRemoveComments.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utTextureTransform.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utRemoveRedundantMaterials.cpp)
+  utRemoveComponent.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utRemoveVCProcess.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utScaleProcess.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utJoinVertices.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utRemoveComments.cpp)
+  utVertexTriangleAdjacency.cpp
+  utSplitLargeMeshes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utRemoveComponent.cpp)
+  utFindDegenerates.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utVertexTriangleAdjacency.cpp)
+  utFindInvalidData.cpp
+  utLimitBoneWeights.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSplitLargeMeshes.cpp)
+  utPretransformVertices.cpp
+  utScenePreprocessor.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utFindDegenerates.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utFindInvalidData.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utLimitBoneWeights.cpp)
+  utTargetAnimation.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utPretransformVertices.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utScenePreprocessor.cpp)
+  utSortByPType.cpp
+  utSceneCombiner.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utTargetAnimation.cpp)
+  utGenBoundingBoxesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSortByPType.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utSceneCombiner.cpp)
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\include\gtest/internal/gtest-internal.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utGenBoundingBoxesProcess.cpp)
+  CCompilerTest.c
+  unit.vcxproj -> C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\test\Release\unit.exe

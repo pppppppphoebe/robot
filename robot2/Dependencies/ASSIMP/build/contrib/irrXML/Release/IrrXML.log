@@ -1,0 +1,4 @@
+﻿  irrXML.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\irrXML\irrString.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     正在建立程式庫 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\Release\IrrXML.lib 和物件 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\Release\IrrXML.exp
+LINK : fatal error LNK1561: 必須定義進入點

@@ -1,0 +1,436 @@
+﻿  Assimp.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Assimp.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  CInterfaceIOWrapper.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\CApi\CInterfaceIOWrapper.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cfileio.h': No such file or directory
+  BaseImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\BaseImporter.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BaseProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\BaseProcess.cpp(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  PostStepRegistry.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\PostStepRegistry.cpp(51,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/ProcessHelper.h': No such file or directory
+  ImporterRegistry.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\ImporterRegistry.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  DefaultIOStream.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\DefaultIOStream.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ai_assert.h': No such file or directory
+  DefaultIOSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\DefaultIOSystem.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/StringComparison.h': No such file or directory
+  ZipArchiveIOSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\ZipArchiveIOSystem.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ZipArchiveIOSystem.h': No such file or directory
+  Importer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Importer.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/version.h': No such file or directory
+  SGSpatialSort.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\SGSpatialSort.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/SGSpatialSort.h': No such file or directory
+  VertexTriangleAdjacency.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\BaseProcess.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/GenericProperty.h': No such file or directory
+  SpatialSort.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\SpatialSort.cpp(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/SpatialSort.h': No such file or directory
+  SceneCombiner.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\SceneCombiner.cpp(55,10): fatal error C1083: 無法開啟包含檔案: 'assimp/SceneCombiner.h': No such file or directory
+  ScenePreprocessor.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\ScenePreprocessor.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/defs.h': No such file or directory
+  SkeletonMeshBuilder.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\SkeletonMeshBuilder.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  SplitByBoneCountProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\BaseProcess.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/GenericProperty.h': No such file or directory
+  StandardShapes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\StandardShapes.cpp(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/StandardShapes.h': No such file or directory
+  TargetAnimation.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\TargetAnimation.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/anim.h': No such file or directory
+  RemoveComments.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\RemoveComments.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/RemoveComments.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  Subdivision.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Subdivision.cpp(43,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Subdivision.h': No such file or directory
+  scene.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\scene.cpp(43,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  Bitmap.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Bitmap.cpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Bitmap.h': No such file or directory
+  Version.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Version.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/version.h': No such file or directory
+  CreateAnimMesh.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\CreateAnimMesh.cpp(43,10): fatal error C1083: 無法開啟包含檔案: 'assimp/CreateAnimMesh.h': No such file or directory
+  simd.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\simd.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/defs.h': No such file or directory
+  DefaultLogger.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Win32DebugLogStream.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogStream.hpp': No such file or directory
+  Exporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Exporter.cpp(57,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BlobIOSystem.h': No such file or directory
+  AssimpCExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\CApi\CInterfaceIOWrapper.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cfileio.h': No such file or directory
+  CalcTangentsProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\CalcTangentsProcess.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  ComputeUVMappingProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ComputeUVMappingProcess.h(48,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  ConvertToLHProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ConvertToLHProcess.h(54,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  EmbedTexturesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\EmbedTexturesProcess.h(45,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  FindDegenerates.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ProcessHelper.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  FindInstancesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\FindInstancesProcess.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  FindInvalidDataProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\FindInvalidDataProcess.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  FixNormalsStep.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\FixNormalsStep.h(48,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  DropFaceNormalsProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\DropFaceNormalsProcess.h(47,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  GenFaceNormalsProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\GenFaceNormalsProcess.h(47,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  GenVertexNormalsProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\GenVertexNormalsProcess.h(48,10): fatal error C1083: 無法開啟包含檔案: 'Common/assbin_chunks.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  PretransformVertices.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\PretransformVertices.h(50,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  ImproveCacheLocality.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ImproveCacheLocality.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/ImproveCacheLocality.h': No such file or directory
+  JoinVerticesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\JoinVerticesProcess.h(48,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  LimitBoneWeightsProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\LimitBoneWeightsProcess.h(47,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  RemoveRedundantMaterials.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\RemoveRedundantMaterials.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  RemoveVCProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\RemoveVCProcess.h(47,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  SortByPTypeProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ProcessHelper.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  SplitLargeMeshes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\SplitLargeMeshes.h(48,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  TextureTransform.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\TextureTransform.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Importer.hpp': No such file or directory
+  TriangulateProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\TriangulateProcess.cpp(62,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/TriangulateProcess.h': No such file or directory
+  ValidateDataStructure.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ValidateDataStructure.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  OptimizeGraph.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\OptimizeGraph.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  OptimizeMeshes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\OptimizeMeshes.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  DeboneProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ProcessHelper.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  ProcessHelper.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ProcessHelper.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/postprocess.h': No such file or directory
+  MakeVerboseFormat.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\MakeVerboseFormat.h(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  ScaleProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\ScaleProcess.h(45,10): fatal error C1083: 無法開啟包含檔案: 'Common/BaseProcess.h': No such file or directory
+  GenBoundingBoxesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\PostProcessing\GenBoundingBoxesProcess.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/GenBoundingBoxesProcess.h': No such file or directory
+  MaterialSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Material\MaterialSystem.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Hash.h': No such file or directory
+  STEPFileReader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\STEPParser\STEPFileReader.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  STEPFileEncoding.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\STEPParser\STEPFileEncoding.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/fast_atof.h': No such file or directory
+  AMFImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\AMF\AMFImporter_Node.hpp(59,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  AMFImporter_Geometry.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\AMF\AMFImporter_Node.hpp(59,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  AMFImporter_Material.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\AMF\AMFImporter_Node.hpp(59,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  AMFImporter_Postprocess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\AMF\AMFImporter_Node.hpp(59,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  3DSConverter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3DS\3DSLoader.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  3DSLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3DS\3DSLoader.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ACLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\AC\ACLoader.h(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ASELoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\ASE\ASELoader.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ASEParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\ASE\ASEParser.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/TextureTransform.h': No such file or directory
+  AssbinLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Assbin\AssbinLoader.cpp(53,10): fatal error C1083: 無法開啟包含檔案: 'Assbin/AssbinLoader.h': No such file or directory
+  B3DImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\B3D\B3DImporter.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'B3D/B3DImporter.h': No such file or directory
+  BVHLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\BVH\BVHLoader.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ColladaLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Collada\ColladaLoader.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ColladaParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Collada\ColladaParser.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/irrXMLWrapper.h': No such file or directory
+  DXFLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\DXF\DXFLoader.cpp(51,10): fatal error C1083: 無法開啟包含檔案: 'DXF/DXFLoader.h': No such file or directory
+  CSMLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\CSM\CSMLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  HMPLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\HMP\HMPLoader.cpp(50,10): fatal error C1083: 無法開啟包含檔案: 'HMP/HMPLoader.h': No such file or directory
+  IRRMeshLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Irr\IRRMeshLoader.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  IRRShared.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Irr\IRRShared.h(10,10): fatal error C1083: 無法開啟包含檔案: 'assimp/irrXMLWrapper.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  IRRLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Irr\IRRLoader.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'Irr/IRRLoader.h': No such file or directory
+  LWOAnimation.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\LWO\LWOFileData.h(57,10): fatal error C1083: 無法開啟包含檔案: 'assimp/mesh.h': No such file or directory
+  LWOBLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\LWO\LWOLoader.h(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  LWOLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\LWO\LWOLoader.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'LWO/LWOLoader.h': No such file or directory
+  LWOMaterial.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\LWO\LWOLoader.h(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  LWSLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\LWS\LWSLoader.cpp(51,10): fatal error C1083: 無法開啟包含檔案: 'LWS/LWSLoader.h': No such file or directory
+  MD2Loader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MD2\MD2Loader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  MD3Loader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MD3\MD3Loader.cpp(56,10): fatal error C1083: 無法開啟包含檔案: 'MD3/MD3Loader.h': No such file or directory
+  MD5Loader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MD5\MD5Loader.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/RemoveComments.h': No such file or directory
+  MD5Parser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MD5\MD5Parser.cpp(50,10): fatal error C1083: 無法開啟包含檔案: 'MD5/MD5Loader.h': No such file or directory
+  MDCLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MDC\MDCLoader.cpp(50,10): fatal error C1083: 無法開啟包含檔案: 'MDC/MDCLoader.h': No such file or directory
+  MDLLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MDL\MDLLoader.cpp(51,10): fatal error C1083: 無法開啟包含檔案: 'MDL/MDLLoader.h': No such file or directory
+  MDLMaterialLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MDL\MDLLoader.h(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  NFFLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\NFF\NFFLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  NDOLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\NDO\NDOLoader.h(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/vector3.h': No such file or directory
+  OFFLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\OFF\OFFLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ObjFileImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Obj\ObjFileImporter.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  ObjFileMtlImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Obj\ObjFileMtlImporter.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/defs.h': No such file or directory
+  ObjFileParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Obj\ObjFileParser.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/vector2.h': No such file or directory
+  OgreImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ogre\OgreImporter.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  OgreStructs.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ogre\OgreStructs.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/MemoryIOWrapper.h': No such file or directory
+  OgreBinarySerializer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ogre\OgreStructs.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/MemoryIOWrapper.h': No such file or directory
+  OgreXmlSerializer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ogre\OgreStructs.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/MemoryIOWrapper.h': No such file or directory
+  OgreMaterial.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ogre\OgreImporter.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  OpenGEXImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\OpenGEX\OpenGEXImporter.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'OpenGEX/OpenGEXImporter.h': No such file or directory
+  PlyLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ply\PlyLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  PlyParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ply\PlyParser.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/fast_atof.h': No such file or directory
+  MS3DLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MS3D\MS3DLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  COBLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\COB\COBLoader.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'COB/COBLoader.h': No such file or directory
+  BlenderLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderDNA.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderDNA.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderScene.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderDNA.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderModifier.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderBMesh.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderDNA.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderTessellator.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderDNA.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  BlenderCustomData.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Blender\BlenderDNA.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  IFCLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCLoader.cpp(58,14): fatal error C1083: 無法開啟包含檔案: 'unzip.h': No such file or directory
+  IFCReaderGen1_2x3.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCReaderGen2_2x3.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCUtil.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCUtil.cpp(49,10): fatal error C1083: 無法開啟包含檔案: 'Importer/IFC/IFCUtil.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  IFCGeometry.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCMaterial.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCProfile.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCCurve.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  IFCBoolean.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCBoolean.cpp(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Importer/IFC/IFCUtil.h': No such file or directory
+  IFCOpenings.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h(46,10): fatal error C1083: 無法開啟包含檔案: 'code/Step/STEPFile.h': No such file or directory
+  XGLLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\XGL\XGLLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  FBXImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXImporter.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  FBXParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.cpp(52,13): fatal error C1083: 無法開啟包含檔案: '../contrib/zlib/zlib.h': No such file or directory
+  FBXTokenizer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXTokenizer.cpp(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ParsingUtils.h': No such file or directory
+  FBXConverter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXUtil.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXTokenizer.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ai_assert.h': No such file or directory
+  FBXDocument.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXDocument.h(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/mesh.h': No such file or directory
+  FBXProperties.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXTokenizer.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ai_assert.h': No such file or directory
+  FBXMeshGeometry.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXMaterial.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXModel.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXAnimation.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXNodeAttribute.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  FBXDeformer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  FBXBinaryTokenizer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXTokenizer.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ai_assert.h': No such file or directory
+  FBXDocumentUtil.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXParser.h(52,10): fatal error C1083: 無法開啟包含檔案: 'assimp/LogAux.h': No such file or directory
+  Q3DLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Q3D\Q3DLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  Q3BSPFileParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Q3BSP\Q3BSPFileParser.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  Q3BSPFileImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Q3BSP\Q3BSPFileImporter.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  RawLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Raw\RawLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  SIBImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\SIB\SIBImporter.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  SMDLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\SMD\SMDLoader.cpp(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/fast_atof.h': No such file or directory
+  STLLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\STL\STLLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  TerragenLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Terragen\TerragenLoader.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  UnrealLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Unreal\UnrealLoader.cpp(55,10): fatal error C1083: 無法開啟包含檔案: 'Unreal/UnrealLoader.h': No such file or directory
+  XFileImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X\XFileImporter.cpp(47,10): fatal error C1083: 無法開啟包含檔案: 'X/XFileImporter.h': No such file or directory
+  XFileParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X\XFileParser.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  X3DImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Geometry2D.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Geometry3D.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Group.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Light.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Metadata.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Networking.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  X3DImporter_Postprocess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Rendering.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Shape.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  X3DImporter_Texturing.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp(51,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  FIReader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\FIReader.hpp(63,12): fatal error C1083: 無法開啟包含檔案: 'irrXML.h': No such file or directory
+  X3DVocabulary.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\FIReader.hpp(63,12): fatal error C1083: 無法開啟包含檔案: 'irrXML.h': No such file or directory
+  glTFCommon.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\glTF\glTFCommon.cpp(41,10): fatal error C1083: 無法開啟包含檔案: 'glTF/glTFCommon.h': No such file or directory
+  glTFImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\glTF\glTFImporter.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'glTF/glTFImporter.h': No such file or directory
+  glTF2Importer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\glTF2\glTF2Importer.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'glTF2/glTF2Importer.h': No such file or directory
+  D3MFImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3MF\D3MFImporter.h(46,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  D3MFOpcPackage.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3MF\D3MFOpcPackage.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/IOSystem.hpp': No such file or directory
+  MMDImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MMD\MMDImporter.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'MMD/MMDImporter.h': No such file or directory
+  MMDPmxParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\MMD\MMDPmxParser.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'assimp/StringUtils.h': No such file or directory
+  StepFileImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\StepFile\StepFileImporter.h(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/BaseImporter.h': No such file or directory
+  StepFileGen1.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\StepFile\StepFileGen1.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'code/Importer/StepFile/StepReaderGen.h': No such file or directory
+  StepFileGen2.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\StepFile\StepFileGen2.cpp(41,10): fatal error C1083: 無法開啟包含檔案: 'code/Importer/StepFile/StepReaderGen.h': No such file or directory
+  StepFileGen3.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Importer\StepFile\StepFileGen3.cpp(41,10): fatal error C1083: 無法開啟包含檔案: 'code/Importer/StepFile/StepReaderGen.h': No such file or directory
+  3DSExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3DS\3DSExporter.cpp(46,10): fatal error C1083: 無法開啟包含檔案: '3DS/3DSExporter.h': No such file or directory
+  AssbinExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Assbin\AssbinExporter.cpp(49,10): fatal error C1083: 無法開啟包含檔案: 'Common/assbin_chunks.h': No such file or directory
+  AssxmlExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Assxml\AssxmlExporter.cpp(49,10): fatal error C1083: 無法開啟包含檔案: 'PostProcessing/ProcessHelper.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  ColladaExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Collada\ColladaExporter.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/ai_assert.h': No such file or directory
+  ObjExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Obj\ObjExporter.h(49,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  OpenGEXExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\OpenGEX\OpenGEXExporter.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  PlyExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Ply\PlyExporter.cpp(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Exceptional.h': No such file or directory
+  FBXExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXExportProperty.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  FBXExportNode.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXExportProperty.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  FBXExportProperty.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\FBX\FBXExportProperty.h(50,10): fatal error C1083: 無法開啟包含檔案: 'assimp/types.h': No such file or directory
+  STLExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\STL\STLExporter.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'assimp/version.h': No such file or directory
+  XFileExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X\XFileExporter.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'X/XFileExporter.h': No such file or directory
+  X3DExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\X3D\X3DExporter.hpp(11,10): fatal error C1083: 無法開啟包含檔案: 'assimp/DefaultLogger.hpp': No such file or directory
+  glTFExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\glTF\glTFExporter.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'glTF/glTFExporter.h': No such file or directory
+  glTF2Exporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\glTF2\glTF2Exporter.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'glTF2/glTF2Exporter.h': No such file or directory
+  D3MFExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\3MF\D3MFExporter.h(47,10): fatal error C1083: 無法開啟包含檔案: 'assimp/vector3.h': No such file or directory
+  json_exporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Assjson\json_exporter.cpp(12,10): fatal error C1083: 無法開啟包含檔案: 'assimp/Importer.hpp': No such file or directory
+  mesh_splitter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Assjson\mesh_splitter.cpp(11,10): fatal error C1083: 無法開啟包含檔案: 'assimp/scene.h': No such file or directory
+  StepExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Step\StepExporter.cpp(48,10): fatal error C1083: 無法開啟包含檔案: 'Step/StepExporter.h': No such file or directory
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+  正在產生程式碼...
+  正在編譯...
+  sweep_context.cc
+  clipper.cpp
+  OpenDDLParser.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\OpenDDLParser.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/OpenDDLParser.h': No such file or directory
+  DDLNode.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\DDLNode.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/DDLNode.h': No such file or directory
+  OpenDDLCommon.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\OpenDDLCommon.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/OpenDDLCommon.h': No such file or directory
+  OpenDDLExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\OpenDDLExport.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/OpenDDLExport.h': No such file or directory
+  Value.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\Value.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/Value.h': No such file or directory
+  OpenDDLStream.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\openddlparser\code\OpenDDLStream.cpp(23,10): fatal error C1083: 無法開啟包含檔案: 'openddlparser/OpenDDLStream.h': No such file or directory
+  o3dgcArithmeticCodec.cpp
+  o3dgcDynamicVectorDecoder.cpp
+  o3dgcDynamicVectorEncoder.cpp
+  o3dgcTools.cpp
+  o3dgcTriangleFans.cpp
+  正在產生程式碼...

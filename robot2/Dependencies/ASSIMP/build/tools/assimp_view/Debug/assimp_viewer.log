@@ -1,0 +1,32 @@
+﻿  AnimEvaluator.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Background.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Display.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  HelpDialog.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Input.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  LogDisplay.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  LogWindow.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Material.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  MeshRenderer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  MessageProc.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Normals.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  SceneAnimator.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Shaders.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  assimp_view.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\assimp_view.h(64,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  stdafx.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\stdafx.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\stdafx.h(45,10): fatal error C1083: 無法開啟包含檔案: 'd3dx9.h': No such file or directory
+  正在產生程式碼...

@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/Users/open1/Downloads/assimp-5.0.1/assimp-5.0.1/tools/assimp_view/CMakeLists.txt
+  AnimEvaluator.cpp
+  Background.cpp
+  Display.cpp
+  HelpDialog.cpp
+  Input.cpp
+  LogDisplay.cpp
+  LogWindow.cpp
+  Material.cpp
+  MeshRenderer.cpp
+  MessageProc.cpp
+  Normals.cpp
+  SceneAnimator.cpp
+  Shaders.cpp
+  assimp_view.cpp
+  stdafx.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\stdafx.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\tools\assimp_view\stdafx.cpp)
+  assimp_viewer.vcxproj -> C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\tools\assimp_view\Release\assimp_viewer.exe

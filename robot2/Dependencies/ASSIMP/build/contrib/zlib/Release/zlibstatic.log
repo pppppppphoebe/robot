@@ -1,0 +1,31 @@
+﻿  adler32.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zlib.h(34,10): fatal error C1083: 無法開啟包含檔案: 'zconf.h': No such file or directory
+  compress.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\compress.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  crc32.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\crc32.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  deflate.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zlib.h(34,10): fatal error C1083: 無法開啟包含檔案: 'zconf.h': No such file or directory
+  gzclose.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\gzclose.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  gzlib.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\gzlib.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  gzread.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\gzread.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  gzwrite.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zlib.h(34,10): fatal error C1083: 無法開啟包含檔案: 'zconf.h': No such file or directory
+  inflate.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\inflate.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  infback.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\infback.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  inftrees.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zlib.h(34,10): fatal error C1083: 無法開啟包含檔案: 'zconf.h': No such file or directory
+  inffast.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\inffast.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  trees.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\trees.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  uncompr.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zlib.h(34,10): fatal error C1083: 無法開啟包含檔案: 'zconf.h': No such file or directory
+  zutil.c
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\zlib\zutil.c : fatal error C1041: 無法開啟程式資料庫 'C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\build\contrib\zlib\Release\vc142.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
+  正在產生程式碼...

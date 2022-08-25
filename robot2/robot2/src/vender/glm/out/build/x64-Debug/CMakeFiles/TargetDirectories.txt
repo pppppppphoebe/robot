@@ -1,0 +1,2 @@
+C:/Users/open1/Documents/GitHub/opengl/Project1_glad/Project1/src/vender/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/open1/Documents/GitHub/opengl/Project1_glad/Project1/src/vender/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

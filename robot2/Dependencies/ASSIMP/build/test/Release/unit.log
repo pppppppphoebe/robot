@@ -1,0 +1,197 @@
+﻿  gtest-all.cc
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\contrib\gtest\src\gtest-all.cc(39,10): fatal error C1083: 無法開啟包含檔案: 'gtest/gtest.h': No such file or directory
+  Main.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  Version.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\code\Common\Version.cpp(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/version.h': No such file or directory
+  utSimd.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utIOSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utIOStreamBuffer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utIssues.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utAnim.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  AssimpAPITest.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBatchLoader.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utDefaultIOStream.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\utDefaultIOStream.cpp(41,10): fatal error C1083: 無法開啟包含檔案: 'gtest/gtest.h': No such file or directory
+  utFastAtof.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utMetadata.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  SceneDiffer.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  AbstractImportExportBase.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utTypes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utVersion.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utProfiler.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSharedPPData.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utStringUtils.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  utLineSplitter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\Common\utLineSplitter.cpp(43,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utLWSImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utLWOImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSMDImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utglTFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utglTF2ImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utHMPImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utIFCImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utFBXImporterExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utExporter.cpp(43,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  ut3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  ut3DSImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utACImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utAMFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utASEImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utD3MFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utQ3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSTLImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utXImporterExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  utX3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utDXFImporterExporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utPMXImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utPLYImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utObjImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utObjTools.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utOpenGEXImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSIBImporter.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBlenderIntermediate.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBlendImportAreaLight.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBlenderImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBlendImportMaterials.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBlenderWork.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utBVHImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utColladaExportCamera.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utColladaExportLight.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utColladaImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utCSMImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utB3DImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utMDCImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  utAssbinImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utAssjsonImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utAssjsonImportExport.cpp(41,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utCOBImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utCOBImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utOgreImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utOgreImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utQ3BSPFileImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utQ3BSPFileImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utOFFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utOFFImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utNFFImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utNFFImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utXGLImportExport.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\ImportExport\utXGLImportExport.cpp(44,10): fatal error C1083: 無法開啟包含檔案: 'UnitTestPCH.h': No such file or directory
+  utMaterialSystem.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utMatrix3x3.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utMatrix4x4.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utVector3.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utImproveCacheLocality.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utFixInfacingNormals.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utGenNormals.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utTriangulate.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utTextureTransform.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utRemoveRedundantMaterials.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utRemoveVCProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utScaleProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  utJoinVertices.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utRemoveComments.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utRemoveComponent.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utVertexTriangleAdjacency.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSplitLargeMeshes.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utFindDegenerates.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utFindInvalidData.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utLimitBoneWeights.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utPretransformVertices.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utScenePreprocessor.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utTargetAnimation.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSortByPType.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utSceneCombiner.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  utGenBoundingBoxesProcess.cpp
+C:\Users\open1\Downloads\assimp-5.0.1\assimp-5.0.1\test\unit\UnitTestPCH.h(45,10): fatal error C1083: 無法開啟包含檔案: 'assimp/cimport.h': No such file or directory
+  正在產生程式碼...
